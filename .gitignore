@@ -1,0 +1,29 @@
+# Credentials & config
+energy_optimizer_config.json
+health_monitor_config.json
+.env
+*.env
+
+# Alerts & recordings
+alerts/
+*.avi
+*.mp4
+grid_log_*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
